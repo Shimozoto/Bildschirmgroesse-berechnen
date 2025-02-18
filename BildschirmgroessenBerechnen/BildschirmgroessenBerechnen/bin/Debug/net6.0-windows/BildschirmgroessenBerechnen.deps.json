@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BildschirmgroessenBerechnen/1.0.0": {
+        "runtime": {
+          "BildschirmgroessenBerechnen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BildschirmgroessenBerechnen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
